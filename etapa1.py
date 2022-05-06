@@ -1,4 +1,4 @@
-PALABRA_A_ADIVINAR = "gatos"
+PALABRA_A_ADIVINAR = "perros"
 
 
 def obtener_color (color) :
